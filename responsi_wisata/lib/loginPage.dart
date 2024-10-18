@@ -39,7 +39,7 @@ class LoginPage extends StatelessWidget {
             ),
             TextButton(
               onPressed: () {
-                // Tambahkan fungsi untuk navigasi ke halaman registrasi
+                // navigasi ke halaman regis...
               },
               child: const Text('Belum Punya Akun? Sign up'),
             ),
